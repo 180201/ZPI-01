@@ -22,6 +22,7 @@ public class SimpleJavaCalculator {
                 //cokolwiek moze nie
             //wprowadzam zmiane jeszcze raz
             //3ci komentarz
+            //4ty komentarz
 		UI uiCal = new UI();
 		uiCal.init();
 	}
