@@ -20,6 +20,7 @@ public class SimpleJavaCalculator {
 
 	public static void main(String[] args) {
                 //cokolwiek moze nie
+            //wprowadzam zmiane jeszcze raz
 		UI uiCal = new UI();
 		uiCal.init();
 	}
